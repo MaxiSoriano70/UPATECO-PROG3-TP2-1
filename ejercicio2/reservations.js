@@ -31,7 +31,7 @@ class Restaurant {
                             </p>
                         </div>
                     </div>
-              `;
+                `;
             container.appendChild(reservationCard);
         });
     }
